@@ -11,12 +11,12 @@
 
 .container {
     width: 95%;
-    height: 95vh;
     background-color: #51509b;
     margin: 2.5vh auto;
     border-radius: 5px;
     padding-top: 50px;
     padding-left: 50px;
+    padding-bottom: 50px;
 }
 
 /* title */
